@@ -56,7 +56,7 @@
     "stylelint": "^16.6.1",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5",
-    "ultracite": "^3.9.2"
+    "ultracite": "^4.0.4"
   },
   "dependencies": {
     "openapi-fetch": "^0.10.4",
